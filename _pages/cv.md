@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="/files/Haoyi%20Wang_CV.pdf" class="btn btn--primary">Download CV (PDF)</a>
+
 Education
 ======
 - **Washington University in St. Louis**, St. Louis, MO, USA  
