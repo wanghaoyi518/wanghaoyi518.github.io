@@ -1,15 +1,37 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Haoyi Wang"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am an M.S. student in Electrical Engineering at Washington University in St. Louis. I work on reliable embodied autonomy with a focus on multi-agent navigation, safe decision-making, and human–robot interaction.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+## Research interests
+
+- Reliable embodied autonomy and task/motion planning
+- Multi-robot navigation and coordination (RL + MAPF)
+- Human behavior modeling and safety-aware planning/control
+
+## Selected publication
+
+- **Deadlock-Free Hybrid RL-MAPF Framework for Zero-Shot Multi-Robot Navigation**  
+  Haoyi Wang, Licheng Luo, Yiannis Kantaros, Bruno Sinopoli, Mingyu Cai.  
+  arXiv:2511.22685, submitted to L4DC 2026. \[[Project page](/publications/)\]
+
+## Highlights
+
+- Integrated an LLM-based task planner with RL navigation and a safety-guaranteed MAPF fallback for deadlock resolution in multi-robot navigation.
+- Built safety-aware planning methods for human-robot interaction by combining human action prediction with reachability analysis and MPC.
+
+## Links
+
+- \[[CV](/cv/)\]
+- \[[Publications](/publications/)\]
+- \[[Research](/research/)\]
+- \[[Email](mailto:haoyi@wustl.edu)\]
 
 A data-driven personal website
 ======
