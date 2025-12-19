@@ -21,10 +21,12 @@ I am an M.S. student in Electrical Engineering at Washington University in St. L
   Haoyi Wang, Licheng Luo, Yiannis Kantaros, Bruno Sinopoli, Mingyu Cai.  
   arXiv:2511.22685, submitted to L4DC 2026. \[[Project page](https://wanghaoyi518.github.io/rl-mapf-project-page/)\]
 
+<!--
 ## Highlights
 
 - Integrated an LLM-based task planner with RL navigation and a safety-guaranteed MAPF fallback for deadlock resolution in multi-robot navigation.
 - Built safety-aware planning methods for human-robot interaction by combining human action prediction with reachability analysis and MPC.
+-->
 
 ## Links
 
